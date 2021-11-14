@@ -1,5 +1,7 @@
 Hello 👋, my name is Albertino Augusto Marrengule,
-Full Stack Developer, Front-End using React & NextJS and Back-End using NodeJS and Java
+Full Stack Developer, Front-End using React & NextJS and Back-End using NodeJS and Java.
+
+
 I created and lead the [JavaScript Community of Maputo](https://jsconfmz.com/) where we discussed several issues related to JavaScript and its complementary technologies.
 
 About leisure ahh ...
